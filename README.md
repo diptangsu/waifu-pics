@@ -36,3 +36,6 @@ Valid nsfw categories:
 ```
 waifu sfw hug
 ```
+
+I don't know why I did this. I guess I was really bored and I found this weird API and I felt like coding.  
+Absolutely not proud of this lol.
