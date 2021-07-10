@@ -16,7 +16,7 @@ setup(
     description="A simple command line app to open a waifu image/gif on the browser. This is a wrapper for the [waifu.pics](https://waifu.pics/docs) API.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/diptangsu/waifu",
+    url="https://github.com/diptangsu/waifu-pics",
     author="Diptangsu Goswami",
     author_email="diptangsu.97@gmail.com",
     license="MIT",
